@@ -112,7 +112,7 @@ Made a ......(LQR-PID-Fuzzy) Controller For Two-Wheeled Self-Balancing Robot
 
 ## - Wheel radius changes (R)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/123794462/216827505-1c5c9221-b8be-4ba6-8aaf-cfe9539c45ac.png)
 
 ## - Conclusion
 
